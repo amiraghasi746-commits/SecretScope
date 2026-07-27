@@ -1,0 +1,5 @@
+# SecretScope core has zero third-party dependencies (pure Python stdlib).
+#
+# The dependency below is OPTIONAL and only needed if you use the --ai flag
+# to get Claude-powered risk explanations.
+anthropic>=0.34.0
